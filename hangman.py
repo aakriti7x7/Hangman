@@ -12,6 +12,7 @@ GAME_LEVEL = [
   inquirer.List('level',
                 message="Please select game level",
                 choices=['Easiest', 'Easy', 'Normal', 'Hard', 'Nightmare'],
+                default='Normal'
             ),
 ]
 
