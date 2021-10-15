@@ -1,12 +1,12 @@
 # HANGMAN
-🎰🎰🎰  This is Hangman game 
+🎰🎰🎰  This is Hangman game 🎰🎰🎰
 
-# Setup
+### Setup
 ```
-pip install -r requirement.text
+pip install -r requirements.txt
 ```
 
-# RUN
+### RUN
 ```
 python hangman.py
 ```
