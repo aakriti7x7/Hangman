@@ -1,6 +1,6 @@
 
 #Hangman
-
+#just have a hang of it:) 
 
 import random
 from word import word
