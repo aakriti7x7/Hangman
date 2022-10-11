@@ -1,1 +1,3 @@
-word = ["iitp"]
+word = ["iitp"
+       ,
+        "yolo"]
