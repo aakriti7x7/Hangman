@@ -1,3 +1,5 @@
 word = ["iitp"
        ,
+       "itachi"
+       ,
         "yolo"]
