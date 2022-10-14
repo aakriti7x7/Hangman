@@ -2,4 +2,6 @@ word = ["iitp"
        ,
         "yolo"
        ,
-       "Trash"]
+       "Trash"
+       ,
+       "shit"]
