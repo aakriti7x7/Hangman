@@ -8,4 +8,6 @@ word = ["iitp"
        ,
        "dustbin"
        ,
-       "mobile"]
+       "mobile"
+       ,
+       "super"]
