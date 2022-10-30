@@ -21,6 +21,7 @@ GAME_LEVEL_MAPPING = {
   "Easy" : 10,
   "Normal" : 6,
   "Hard" : 3,
+  "Very hard" : 2,
   "Nightmare" : 1,
 }
 
