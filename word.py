@@ -10,4 +10,6 @@ word = ["iitp"
        ,
        "mobile"
        ,
-       "super"]
+       "super"
+       ,
+       "cool"]
