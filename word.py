@@ -14,4 +14,5 @@ word = ["iitp"
        ,
        "water"
        ,
-       "final"]
+       "final",
+       "doomed"]
