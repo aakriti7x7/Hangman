@@ -12,4 +12,6 @@ word = ["iitp"
        ,
        "super"
        ,
-       "cool"]
+       "cool"
+       ,
+       "fail"]
